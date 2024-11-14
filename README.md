@@ -42,7 +42,7 @@ Ce projet vise à fournir des insights stratégiques pour Uber, en mettant l'acc
 
 ## Livrables
 
-- **Rapport PDF**
+- **Rapport PowerPoint**
   - Résumé des objectifs, méthodologies, analyses et résultats clés, avec des visualisations pertinentes.
   
 - **Code Source R**
@@ -51,5 +51,8 @@ Ce projet vise à fournir des insights stratégiques pour Uber, en mettant l'acc
 ## Date de Soumission
 14 décembre 2024
 
+## Date de Soutenance 
+18 Decembre 2024
+
 ## Auteurs
-Ce projet a été réalisé par une équipe de 5 personnes(@JASON MAMPOUYA, @GEMIMA ONDELE, @BOKA ESTHER  NIANGORAN, @PHANUEL NTCHO KONE, @AROON ZINGUE) dans le cadre d'une analyse approfondie des données Uber en R, visant à fournir des informations exploitables pour améliorer l'efficacité opérationnelle et renforcer l'expérience client chez Uber.
+Ce projet a été réalisé par une équipe de 5 personnes(@JASON MAMPOUYA, @GEMIMA ONDELE, @BOKA ESTHER NIANGORAN, @PHANUEL NTCHO KONE et @AROON ZINGUE) dans le cadre d'une analyse approfondie des données Uber en R, visant à fournir des informations exploitables pour améliorer l'efficacité opérationnelle et renforcer l'expérience client chez Uber.
